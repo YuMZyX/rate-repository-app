@@ -58,7 +58,6 @@ const ReviewForm = () => {
     try {
       const review = await createReview({ ownerName, rating, repositoryName, text })
       const repositoryId = review.createReview.repositoryId
-      console.log(repositoryId)
       navigate(`/${repositoryId}`);
     } catch (e) {
       console.log(e);
