@@ -45,7 +45,7 @@ const RepositoryList = () => {
   const [searchKeyword] = useDebounce(search, 500);
 
   const { repositories, fetchMore } = useRepositories({ 
-    first: 8,
+    first: 50,
     orderBy, 
     orderDirection, 
     searchKeyword
