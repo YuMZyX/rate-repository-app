@@ -1,6 +1,7 @@
 # Rate repository app
 Rate repository app created with React Native. 
-API for the application has been created by Kalle Ilves from Helsinki University.
+Initial API for the application has been created by Kalle Ilves from Helsinki University and then forked and refactored by me for production readiness.
+https://github.com/YuMZyX/rate-repository-api
 
 Anonymous users have following features:
 - A list of public GitHub repositories that have been reviewed in the app, including their avatar, fork count, code language, star count, review count, rating and description.
