@@ -19,7 +19,7 @@ v16.19.0
 
 1. Clone this repository and run `npm install` in the `rate-repository-app` directory.
    
-2. Create a file `.env` in the `rate-repository-app` directory and add `APOLLO_URI` variable with url of the API as a value (usually in the form of http://<MY IP>:4000/graphql when running the API locally).
+2. Create a file `.env` in the `rate-repository-app` directory and add `APOLLO_URI` variable with url of the API as a value (usually in the form of http://MY_IP:4000/graphql when running the API locally).
    
 3. Run `npm start` to start the application with Metro builder and use either the web view, android/ios emulator or Expo Go application that is installed to your phone to use the application.
 
