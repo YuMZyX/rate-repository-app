@@ -1,5 +1,6 @@
 # Rate repository app
-Rate repository app created with React Native. 
+Rate repository app created with React Native for reviewing GitHub repositories.
+
 Initial API for the application has been created by Kalle Ilves from Helsinki University and then forked and refactored by me for production readiness.
 https://github.com/YuMZyX/rate-repository-api
 
