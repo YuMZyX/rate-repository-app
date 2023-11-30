@@ -11,6 +11,7 @@ npm-debug.*
 web-build/
 screenshots/
 .env
+rate-repository-app.code-workspace
 
 # macOS
 .DS_Store
